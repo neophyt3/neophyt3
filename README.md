@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Chauhan</h1>
 <h3 align="center">A passionate Software Engineer first and then Developer from India and FOSS enthusiast</h3>
 
-- 🔭 I’m currently working on [Fastify Nx Plugin](https://github.com/plugified/nx-plugins)
+- 🔭 I’m currently working on few Node.js and fastify projects for which I will open source soon
 
 - 🌱 I’m currently learning **Build tools such as Bazel and getting deeper into Linux kernel and C beyond basics**
 
