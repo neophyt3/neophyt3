@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on few Node.js and fastify projects for which I will open source soon
 
-- 🌱 I’m currently learning **Build tools such as Bazel and getting deeper into Linux kernel and C beyond basics**
+- 🌱 I’m currently learning **Build tools such as Bazel and getting deeper into Linux kernel and C and Rust**
 
 - 💬 Ask me about **Javascript, TypeScript, Nodejs, Golang, Databases, DSA, Devops**
 
